@@ -1,4 +1,7 @@
 # Simulacion de carrera de caballos con hilos en c
+## Sistemas Operativos
+### Walter Javier Riveros Castro
+#### Ing de sistemas
 
 Desarrollar un programa en c que simule una carrera de caballos, en donde
 cada caballo es un hilo.
